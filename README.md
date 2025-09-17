@@ -42,9 +42,6 @@ Bu proje, BMW'nin elektrikli ve klasik araçlarının tanıtımı için hazırla
     open index.html
     ```
 
-## 🖼️ Ekran Görüntüsü
-
-![BMW Slayt](img/bmwi7.jpg)
 
 ## 🎯 Geliştirme Planları
 
@@ -58,3 +55,4 @@ Bu proje, BMW'nin elektrikli ve klasik araçlarının tanıtımı için hazırla
 Bu proje kişisel kullanım içindir. Herhangi bir ticari kullanım için lisans belirtilmemiştir.
 
 ---
+
