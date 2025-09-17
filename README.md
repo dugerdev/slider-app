@@ -1,31 +1,31 @@
-# BMW Araç Tanıtım Slaytı
+# BMW Vehicle Showcase Slide
 
-Bu proje, BMW'nin elektrikli ve klasik araçlarının tanıtımı için hazırlanmış basit bir slayt uygulamasıdır. HTML, CSS, JavaScript ve Bootstrap kullanılarak geliştirilmiştir.
+This project is a simple slide application designed to showcase BMW's electric and classic vehicles. It is developed using HTML, CSS, JavaScript, and Bootstrap.
 
-## 🚗 Özellikler
+## 🚗 Features
 
-- BMW modellerini slayt şeklinde gösterir.
-- Sol ve sağ ok ikonlarıyla slayt geçişi yapılabilir.
-- Her slayt, aracın resmi, ismi ve ilgili bağlantısını içerir.
-- Responsive (mobil uyumlu) tasarım.
+- Displays BMW models in a slideshow format.
+- Navigate slides using left and right arrow icons.
+- Each slide includes the vehicle's image, name, and a related link.
+- Responsive (mobile-friendly) design.
 
-## 🧰 Kullanılan Teknolojiler
+## 🧰 Technologies Used
 
 - HTML5
 - CSS3
 - Bootstrap 5
 - JavaScript (Vanilla)
-- Font Awesome (ikonlar için)
+- Font Awesome (for icons)
 
-## 📦 Kurulum
+## 📦 Installation
 
-1. Bu repoyu klonlayın:
+1. Clone this repository:
     ```bash
-    git clone https://github.com/kullanici-adi/bmw-slayt.git
-    cd bmw-slayt
+    git clone https://github.com/username/bmw-slide.git
+    cd bmw-slide
     ```
 
-2. Gerekli dosya yapısını kontrol edin:
+2. Check the required file structure:
     ```
     ├── index.html
     ├── script.js
@@ -36,23 +36,19 @@ Bu proje, BMW'nin elektrikli ve klasik araçlarının tanıtımı için hazırla
     │   └── bmw1.jpg
     ```
 
-3. `index.html` dosyasını tarayıcıda açın:
+3. Open `index.html` in a browser:
     ```
-    (çift tıklayın ya da)
+    (double-click or)
     open index.html
     ```
 
+## 🎯 Development Plans
 
-## 🎯 Geliştirme Planları
+- [ ] Automatic slide transition (setInterval).
+- [ ] Slide transition animations.
+- [ ] Mobile touch swipe support.
+- [ ] Dynamic structure for easily adding new models.
 
-- [ ] Otomatik slayt geçişi (setInterval).
-- [ ] Slaytlar arası geçiş animasyonları.
-- [ ] Mobil dokunmatik geçiş desteği.
-- [ ] Yeni modellerin kolayca eklenebileceği dinamik yapı.
+## 📝 License
 
-## 📝 Lisans
-
-Bu proje kişisel kullanım içindir. Herhangi bir ticari kullanım için lisans belirtilmemiştir.
-
----
-
+This project is for personal use. No license is provided for commercial use.
